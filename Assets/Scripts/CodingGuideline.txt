@@ -1,0 +1,11 @@
+This is the coding guideline for ShipUnitTest project
+
+<varName>   = used for public variables
+m_<varName> = used for private member variables in a class
+l_<varName> = used for local variable in a functions/methods (l_ stands for "local")
+s_<varName> = used for static variables
+
+always use PascalCasing for Methods name (ex: MethodName)
+always use camelCasing for variables name (ex: variableName)
+
+always use UPPERCASE for DEFINES and ENUMS
